@@ -1,7 +1,19 @@
-.imgg
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;/*supprimer marge bordure etc*/
+}
+
+
+
+.takee
 {
+    color: white;
+    float: right;
+    margin-right: 1450px;
+    text-align: center;
+    margin-top: 9px;
     
-    color: red
 }
 
 
