@@ -10,9 +10,9 @@
 {
     color: white;
     float: right;
-    margin-right: 1450px;
+    margin-right: 1449px;
     text-align: center;
-    margin-top: 9px;
+    margin-top: -25px;
     font-weight: bold;
     
 }
@@ -21,7 +21,9 @@
 body
 {
     
-    background-image: url(img/masthead.jpg)
+    background-image: url(img/masthead.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
 }
 
 #one
@@ -31,7 +33,7 @@ body
     float: none;
     color: white;
     margin-top: 330px;
-    margin-right: 600px;
+    margin-right: 640px;
     font-size: 40px;    
    font-family: 'Open Sans', sans-serif;
 
@@ -45,6 +47,49 @@ body
     
     text-align: center;
     color: #fff;
-    margin-right: 600px;
+    margin-right: 780px;
+    
+}
+
+.iphone
+{
+    
+    float: right;
+    margin-top: -400px;
+    margin-right: 70px;
+}
+
+
+.lorem2
+{
+   
+    color: #777;
+    margin-top: 50px;
+    margin-left: 172px;
+    
+    
+    
+}
+
+
+h2
+{
+    text-align: center;
+     margin-top: 400px;
+    margin-left: 180px;
+       font-family: 'Open Sans', sans-serif;
+
+    
+    
+}
+
+.lorem3
+{
+    
+    color: #777;
+    float: right;
+    margin-top: -42px;
+    margin-right: 78px;
+    
     
 }
