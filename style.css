@@ -8,16 +8,16 @@
 
 .takee
 {
-    color: white;
-    float: right;
-    margin-right: 1449px;
+    font-size: 20px; 
+    color: #fff;
+    margin-left: 52px;
     text-align: center;
     margin-top: -25px;
     font-style: italic;
-    
+    float: right;
+    position: absolute;
+
 }
-
-
 body
 {
     
@@ -179,7 +179,6 @@ height: 170px;
 .sgg
 {
     
-        font-size: 2Opx;
 
     text-align: center;
     margin-left: 179px;
