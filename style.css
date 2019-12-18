@@ -306,3 +306,29 @@ margin-left: 500px;
     margin-top: -24px;
     margin-left: -33px;
 }
+.buttons2 {
+    padding: 6px 0 6px 0;
+    font: bold 10px Arial;
+    background: violet;
+    color: #fff;
+    border-radius: 2px;
+    width: 113px;
+    border: none;
+    margin-top: -285px;
+    margin-left: 1097px;
+    opacity: 0.4;
+}
+
+
+#gos {
+    font-size: 3Opx;
+    font-family: 'Varela Round', sans-serif;
+    margin-left: 1101px;
+    margin-top: -220px;
+}
+.lorem4 {
+    color: #777;
+    float: right;
+    margin-right: -200px;
+}
+
