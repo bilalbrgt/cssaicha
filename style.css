@@ -22,7 +22,7 @@ body
 {
     
     background-image: url(img/masthead.jpg);
-    background-size: contain;
+    
     background-repeat: no-repeat;
 }
 
@@ -59,7 +59,7 @@ body
     height: 176px;
     background-color: rosybrown;
     color: white;
-    margin-left: 100px;
+    margin-left: 255px;
     text-align: center;
     margin-top: 200px;
           font-size: 20px;
@@ -72,7 +72,7 @@ body
     height: 176px;
     background-color: darkblue;
     color: white;
-    margin-left: 321px;
+    margin-left: 476px;
     text-align: center;
     margin-top: -175px;
           font-size: 20px;
@@ -87,7 +87,7 @@ body
     height: 176px;
     background-color:#339999;
     color: white;
-    margin-left: 540px;
+    margin-left: 690px;
     text-align: center;
     margin-top: -172px;
           font-size: 20px;
@@ -101,27 +101,21 @@ body
 {
     
     float: right;
-    margin-top: -400px;
-    margin-right: 70px;
+    margin-top: -270px;
+    margin-right: -76px;
 }
 
 
-.lorem2
-{
-   
+.lorem2 {
     color: #777;
     margin-top: 50px;
-    margin-left: 172px;
-    
-    
-    
+    margin-left: 245px;
 }
-
 
 h2
 {
     text-align: center;
-     margin-top: 400px;
+     margin-top: 530px;
     margin-left: 180px;
        font-family: 'Open Sans', sans-serif;
 
@@ -135,7 +129,7 @@ h2
     color: #777;
     float: right;
     margin-top: -42px;
-    margin-right: 78px;
+    margin-right: -80px;
     
     
 }
@@ -148,7 +142,7 @@ h2
     width: 221px;
     height: 174px;
     margin-top: -174px;
-    margin-right: 756px;
+    margin-right: 600px;
     
    font-family: 'Open Sans', sans-serif;
 }
@@ -158,7 +152,7 @@ h2
     
 width: 440PX;
 height: 170px;
-    margin-left: 100px;
+    margin-left: 250px;
     
    font-family: 'Open Sans', sans-serif;
     
@@ -169,7 +163,7 @@ height: 170px;
     
     text-align: center;
     position: absolute;
-    margin-left: 560px;
+    margin-left: 720px;
     margin-top: -175px;
     color: #fff;
     font-size: 20px;
@@ -181,7 +175,7 @@ height: 170px;
     
 
     text-align: center;
-    margin-left: 179px;
+    margin-left: 279px;
     margin-top: 4px;
     position: absolute;
     color: #fff;
@@ -193,7 +187,7 @@ height: 170px;
     
     font-family: 'Varela Round', sans-serif;
      color: black;
-    margin-left: 278px;
+    margin-left: 378px;
     font-size: 20px;
     
 }
@@ -203,7 +197,7 @@ height: 170px;
     
     
     text-align: center;
-    margin-left: -702px;
+    margin-left: -437px;
     color: #777;
     font-size: 20px;
 
@@ -220,17 +214,7 @@ margin-top: 508px;
 
     
 }
-.reasons
-{
-    
-    
-    text-align: center;
-    width: 1800px;
-    height: 300PX;
-    background-color: skyblue;
-    opacity: .5;
-    
-}
+
 
 .tt
 {
@@ -331,4 +315,91 @@ margin-left: 500px;
     float: right;
     margin-right: -200px;
 }
+.first1
 
+{
+    background-image: url(img/box-bg-lg.jpg);
+    background-repeat: no-repeat;
+    border: 2px solid black;
+    background-size: contain;
+}
+
+.container
+{
+    
+    
+    display: flex;
+}
+
+
+
+.buttons3  {
+    padding: 6px 0 6px 0;
+    font: bold 13px Arial;
+    background: green;
+    color: #fff;
+    border-radius: 2px;
+    width: 95px;
+    border: none;
+    margin-top: 40px;
+    margin-left: 1100px;
+    opacity: 0.4;
+}
+
+
+#apple:before {
+    content: "\f179";
+    position: absolute;
+    margin-top: 32px;
+    margin-left: -33px;
+}
+#windows:before {
+    content: "\f17a";
+    margin-left: -4px;
+    position: absolute;
+    margin-top: 32px;
+        background-color:#f4f8fb;
+
+}
+
+.container-fluid
+
+{
+    
+    
+    background-color:#f4f8fb;
+   
+}
+.footters{background-color:#182432;padding:70px 13%;color:white;}
+.marginbottom{margin-bottom:20px;}
+.greySmall{font-size:12px;color:grey;}
+footters{background-color:#182432;padding:70px 13%;color:white;}
+.footters > *{margin-top:30px;}
+.footters > *{margin-top:30px;}
+.footterlistcontains{display:flex;margin-top:30px;flex-direction:row;flex-flow:wrap;justify-content:space-between;flex-basis:50%;}
+ul{padding:0px;margin:0;}
+.footterlistcontains  li{list-style:none;text-align:left;}
+.greySmall{font-size:12px;color:grey;}
+.footterlistcontains > span{padding:20px;}
+.footterform{position:relative;display:flex;flex-flow:row wrap;}
+.footterform input{width:100%;height:40px;border-radius:5px;}
+.footterform button{width:45px;height:45px;position:absolute;right:0px;background:#84c89f;float:right;border:none;color:white;}
+.footerchild > *{padding-right:50px;}
+.footters > div > p{margin-bottom:20px;}
+.marginbottom{margin-bottom:20px;}
+
+
+
+    .reasons{background-color:#84c99d;color:white;padding:70px 13%;  
+    text-align: center;opacity: .5; width: 1800px;
+    height: 300PX;}
+.fa-check:before {
+    content: "\f00c";
+    position: absolute;
+    margin-top: -63px;
+    margin-left: 57px;
+    color: white;
+}
+
+.icone{background-color:#f4f8fb;width: 2000px;
+    height: 600PX;}
